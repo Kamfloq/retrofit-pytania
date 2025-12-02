@@ -1,0 +1,25 @@
+{
+  "pytania":[
+    {
+      "tresc" : "Stolicą Polski było",
+      "odpa" : "Wilkowyje",
+      "odpb" : "Gniezno",
+      "odpc" : "Kowno",
+      "poprawna": 1
+    },
+    {
+      "tresc" : "Prezydentem Polski był",
+      "odpa" : "Jarosław Kaczyński",
+      "odpb" : "Lech Wałęsa",
+      "odpc" : "Paweł Kozioł",
+      "poprawna": 1
+    },
+    {
+      "tresc" : "Co się stało w 1989 na Tiananmen Square",
+      "odpa" : "Nic",
+      "odpb" : "Masakra studentów",
+      "odpc" : "Wybory prezydenckie",
+      "poprawna": 0
+    }
+  ]
+}
