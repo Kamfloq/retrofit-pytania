@@ -20,6 +20,27 @@
       "odpb" : "Masakra studentów",
       "odpc" : "Wybory prezydenckie",
       "poprawna": 0
+    },
+    {
+      "tresc" : "Najlepszy kolor",
+      "odpa" : "Brązowy",
+      "odpb" : "Czarny",
+      "odpc" : "Biały",
+      "poprawna": 2
+    },
+    {
+      "tresc" : "Które ugrupowanie nie jest neo-nazistowskie?",
+      "odpa" : "Ku Klux Klan",
+      "odpb" : "Atomwaffen",
+      "odpc" : "The Base",
+      "poprawna": 0
+    },
+    {
+      "tresc" : "Która odpowiedź jest poprawna?",
+      "odpa" : "Odpowiedź niżej nie jest poprawna",
+      "odpb" : "Ta odpowiedź nie jest poprawna",
+      "odpc" : "Wszystkie odpowiedzi są poprawne",
+      "poprawna": 0
     }
   ]
 }
