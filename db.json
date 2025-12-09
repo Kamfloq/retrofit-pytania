@@ -36,11 +36,11 @@
       "poprawna": 0
     },
     {
-      "tresc" : "Która odpowiedź jest poprawna?",
+      "tresc" : "Która odpowiedź nie jest poprawna?",
       "odpa" : "Odpowiedź niżej nie jest poprawna",
-      "odpb" : "Ta odpowiedź nie jest poprawna",
-      "odpc" : "Wszystkie odpowiedzi są poprawne",
-      "poprawna": 0
+      "odpb" : "Wszystkie odpowiedzi są poprawne",
+      "odpc" : "Odpowiedź A jest poprawna",
+      "poprawna": 1
     }
   ]
 }
